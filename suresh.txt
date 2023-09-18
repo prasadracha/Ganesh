@@ -1,2 +1,3 @@
 username:prasad
 pwd:prasad@123
+other:123456
